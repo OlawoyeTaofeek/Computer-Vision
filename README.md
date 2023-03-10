@@ -1,0 +1,1 @@
+Applying Convolutional Neural Network on Fashion MNIST dataset.
